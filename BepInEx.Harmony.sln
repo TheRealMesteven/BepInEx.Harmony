@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.271
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BepInEx.Harmony", "BepInEx.Harmony\BepInEx.Harmony.csproj", "{54161CFE-FF42-4DDE-B161-3A49545DB5CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BepInEx.Harmony", "BepInEx.Harmony\BepInEx.Harmony.csproj", "{54161CFE-FF42-4DDE-B161-3A49545DB5CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmonyXInterop", "HarmonyXInterop\HarmonyXInterop.csproj", "{160F7FE0-288D-435C-9E7E-497D3E0DE3A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyXInterop", "HarmonyXInterop\HarmonyXInterop.csproj", "{160F7FE0-288D-435C-9E7E-497D3E0DE3A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarmonyX2Interop", "HarmonyX2Interop\HarmonyX2Interop.csproj", "{69F6541D-A0F5-419D-B0EE-F5017F1D34F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyX2Interop", "HarmonyX2Interop\HarmonyX2Interop.csproj", "{69F6541D-A0F5-419D-B0EE-F5017F1D34F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyX22Interop", "HarmonyX22Interop\HarmonyX22Interop.csproj", "{1518F974-07ED-4354-958E-B0B6B5597B7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,11 +29,13 @@ Global
 		{69F6541D-A0F5-419D-B0EE-F5017F1D34F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F6541D-A0F5-419D-B0EE-F5017F1D34F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F6541D-A0F5-419D-B0EE-F5017F1D34F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1518F974-07ED-4354-958E-B0B6B5597B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1518F974-07ED-4354-958E-B0B6B5597B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1518F974-07ED-4354-958E-B0B6B5597B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1518F974-07ED-4354-958E-B0B6B5597B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89EE69F7-A706-482D-843E-761719BBE2EF}
