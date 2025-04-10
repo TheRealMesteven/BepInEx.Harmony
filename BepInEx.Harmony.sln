@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyXInterop", "HarmonyX
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyX2Interop", "HarmonyX2Interop\HarmonyX2Interop.csproj", "{69F6541D-A0F5-419D-B0EE-F5017F1D34F3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyX22Interop", "HarmonyX22Interop\HarmonyX22Interop.csproj", "{1518F974-07ED-4354-958E-B0B6B5597B7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarmonyX222Interop", "HarmonyX22Interop\HarmonyX222Interop.csproj", "{1518F974-07ED-4354-958E-B0B6B5597B7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
